@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Datasets
+project/datasets/
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# Secrets
+.env

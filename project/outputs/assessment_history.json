@@ -1,0 +1,74 @@
+[
+  {
+    "timestamp": "2026-06-08T06:40:07.877749",
+    "prediction": 1,
+    "probability": 0.7112,
+    "risk_level": "High",
+    "input_features": {
+      "Gender": "Male",
+      "Age": 22,
+      "City": "Hyderabad",
+      "Profession": "Student",
+      "Academic Pressure": 4,
+      "Work Pressure": 2,
+      "CGPA": 7.5,
+      "Study Satisfaction": 3,
+      "Job Satisfaction": 3,
+      "Sleep Duration": "Less than 5 hours",
+      "Dietary Habits": "Moderate",
+      "Degree": "B.Tech",
+      "Have you ever had suicidal thoughts ?": "No",
+      "Work/Study Hours": 8,
+      "Financial Stress": 4,
+      "Family History of Mental Illness": "No"
+    }
+  },
+  {
+    "timestamp": "2026-06-08T06:41:01.321226",
+    "prediction": 1,
+    "probability": 0.7112,
+    "risk_level": "High",
+    "input_features": {
+      "Gender": "Male",
+      "Age": 22,
+      "City": "Hyderabad",
+      "Profession": "Student",
+      "Academic Pressure": 4,
+      "Work Pressure": 2,
+      "CGPA": 7.5,
+      "Study Satisfaction": 3,
+      "Job Satisfaction": 3,
+      "Sleep Duration": "Less than 5 hours",
+      "Dietary Habits": "Moderate",
+      "Degree": "B.Tech",
+      "Have you ever had suicidal thoughts ?": "No",
+      "Work/Study Hours": 8,
+      "Financial Stress": 4,
+      "Family History of Mental Illness": "No"
+    }
+  },
+  {
+    "timestamp": "2026-06-08T06:52:14.415814",
+    "prediction": 0,
+    "probability": 0.2655,
+    "risk_level": "Low",
+    "input_features": {
+      "Gender": "Female",
+      "Age": 20,
+      "City": "hyderabad",
+      "Profession": "Student",
+      "Academic Pressure": 3,
+      "Work Pressure": 3,
+      "CGPA": 9.22,
+      "Study Satisfaction": 2,
+      "Job Satisfaction": 1,
+      "Sleep Duration": "5-6 hours",
+      "Dietary Habits": "Moderate",
+      "Degree": "B.tech",
+      "Have you ever had suicidal thoughts ?": "No",
+      "Work/Study Hours": 2.0,
+      "Financial Stress": 4,
+      "Family History of Mental Illness": "No"
+    }
+  }
+]

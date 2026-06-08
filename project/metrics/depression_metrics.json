@@ -1,0 +1,27 @@
+{
+    "accuracy": 0.8423,
+    "precision": 0.8418,
+    "recall": 0.8423,
+    "f1_score": 0.8419,
+    "classification_report": "              precision    recall  f1-score   support\n\n           0       0.82      0.79      0.81      2313\n           1       0.86      0.88      0.87      3268\n\n    accuracy                           0.84      5581\n   macro avg       0.84      0.83      0.84      5581\nweighted avg       0.84      0.84      0.84      5581\n",
+    "roc_auc": 0.9181,
+    "best_model": "XGBoost",
+    "cv_results": {
+        "Logistic Regression": {
+            "cv_f1_mean": 0.8441,
+            "cv_f1_std": 0.0015
+        },
+        "Random Forest": {
+            "cv_f1_mean": 0.8401,
+            "cv_f1_std": 0.0019
+        },
+        "XGBoost": {
+            "cv_f1_mean": 0.8446,
+            "cv_f1_std": 0.0041
+        },
+        "LightGBM": {
+            "cv_f1_mean": 0.8397,
+            "cv_f1_std": 0.004
+        }
+    }
+}

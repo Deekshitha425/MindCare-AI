@@ -1,0 +1,67 @@
+[
+  {
+    "turn": 1,
+    "timestamp": "2026-06-08T22:57:08.361336",
+    "user": "hii",
+    "bot": "Hi there! I'm glad you're here. What's on your mind?",
+    "emotion": {
+      "emotion": "neutral",
+      "confidence": 0.9729627521974525,
+      "source": "model"
+    },
+    "intent": "greeting",
+    "risk_level": null
+  },
+  {
+    "turn": 2,
+    "timestamp": "2026-06-08T22:57:26.383635",
+    "user": "hi feel very sad today",
+    "bot": "Hello! I'm MindCare AI. I'm here to listen. How are you feeling today?",
+    "emotion": {
+      "emotion": "sadness",
+      "confidence": 0.8965955611506958,
+      "source": "model"
+    },
+    "intent": "greeting",
+    "risk_level": null
+  },
+  {
+    "turn": 3,
+    "timestamp": "2026-06-08T22:57:39.709666",
+    "user": "i feel anxious",
+    "bot": "It sounds like you've been carrying a lot of worry. What's been feeling most overwhelming right now?\n\nIs there anyone in your life you feel comfortable talking to about this?",
+    "emotion": {
+      "emotion": "fear",
+      "confidence": 0.9895083443391085,
+      "source": "model"
+    },
+    "intent": "general",
+    "risk_level": null
+  },
+  {
+    "turn": 4,
+    "timestamp": "2026-06-08T22:58:02.284466",
+    "user": "i think i may passout",
+    "bot": "Hey! How are you doing today?",
+    "emotion": {
+      "emotion": "neutral",
+      "confidence": 0.9259993620190765,
+      "source": "model"
+    },
+    "intent": "greeting",
+    "risk_level": null
+  },
+  {
+    "turn": 5,
+    "timestamp": "2026-06-08T22:58:17.907822",
+    "user": "bye",
+    "bot": "Take care of yourself. I'm here whenever you need to talk. 💙",
+    "emotion": {
+      "emotion": "neutral",
+      "confidence": 0.9789978996544778,
+      "source": "model"
+    },
+    "intent": "farewell",
+    "risk_level": null
+  }
+]

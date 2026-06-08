@@ -1,0 +1,27 @@
+[
+  {
+    "username": "deepu",
+    "timestamp": "2026-06-08T22:59:18.632951",
+    "prediction": 0,
+    "probability": 0.1967,
+    "risk_level": "Low",
+    "input_features": {
+      "Gender": "Female",
+      "Age": 18,
+      "City": "Hyderabad",
+      "Profession": "Student",
+      "Academic Pressure": 3,
+      "Work Pressure": 1,
+      "CGPA": 8.3,
+      "Study Satisfaction": 2,
+      "Job Satisfaction": 2,
+      "Sleep Duration": "7-8 hours",
+      "Dietary Habits": "Moderate",
+      "Degree": "B.Tech",
+      "Have you ever had suicidal thoughts ?": "No",
+      "Work/Study Hours": 2.0,
+      "Financial Stress": 2,
+      "Family History of Mental Illness": "No"
+    }
+  }
+]

@@ -1,0 +1,7 @@
+{
+    "accuracy": 0.9241,
+    "precision": 0.9236,
+    "recall": 0.9241,
+    "f1_score": 0.9237,
+    "classification_report": "              precision    recall  f1-score   support\n\n     sadness       0.94      0.95      0.94      1131\n         joy       0.91      0.93      0.92      1399\n        love       0.82      0.82      0.82       337\n       anger       0.92      0.89      0.91       550\n        fear       0.88      0.85      0.87       436\n    surprise       0.80      0.72      0.76       147\n     neutral       0.97      0.98      0.98      1399\n\n    accuracy                           0.92      5399\n   macro avg       0.89      0.88      0.88      5399\nweighted avg       0.92      0.92      0.92      5399\n"
+}

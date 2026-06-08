@@ -1,0 +1,200 @@
+[
+  {
+    "turn": 1,
+    "timestamp": "2026-06-08T06:37:05.971615",
+    "user": "hello",
+    "bot": "Hey! How are you doing today?",
+    "emotion": {
+      "emotion": "neutral",
+      "confidence": 0.9781,
+      "source": "model",
+      "all_probs": {
+        "anger": 0.0057,
+        "fear": 0.0044,
+        "joy": 0.0045,
+        "love": 0.0018,
+        "neutral": 0.9781,
+        "sadness": 0.0035,
+        "surprise": 0.0019
+      }
+    },
+    "intent": "greeting",
+    "risk_level": null
+  },
+  {
+    "turn": 2,
+    "timestamp": "2026-06-08T06:37:09.079411",
+    "user": "I have been feeling really sad and overwhelmed lately",
+    "bot": "That sounds really painful. It's okay to sit with it — you don't have to fix it right now. What's been the worst part?",
+    "emotion": {
+      "emotion": "sadness",
+      "confidence": 0.6836,
+      "source": "model",
+      "all_probs": {
+        "anger": 0.0015,
+        "fear": 0.2324,
+        "joy": 0.0017,
+        "love": 0.0011,
+        "neutral": 0.0,
+        "sadness": 0.6836,
+        "surprise": 0.0796
+      }
+    },
+    "intent": "general",
+    "risk_level": null
+  },
+  {
+    "turn": 3,
+    "timestamp": "2026-06-08T06:37:09.083646",
+    "user": "I can't sleep and I have no motivation to do anything",
+    "bot": "Hi there! Glad you're here. What's on your mind?",
+    "emotion": {
+      "emotion": "neutral",
+      "confidence": 0.922,
+      "source": "model",
+      "all_probs": {
+        "anger": 0.034,
+        "fear": 0.0041,
+        "joy": 0.0279,
+        "love": 0.0008,
+        "neutral": 0.922,
+        "sadness": 0.0066,
+        "surprise": 0.0046
+      }
+    },
+    "intent": "greeting",
+    "risk_level": null
+  },
+  {
+    "turn": 4,
+    "timestamp": "2026-06-08T06:37:09.087182",
+    "user": "I feel so exhausted all the time",
+    "bot": "Sometimes things just pile up until it all feels too much. What's been going on for you?",
+    "emotion": {
+      "emotion": "sadness",
+      "confidence": 0.9807,
+      "source": "model",
+      "all_probs": {
+        "anger": 0.0073,
+        "fear": 0.0012,
+        "joy": 0.0016,
+        "love": 0.0046,
+        "neutral": 0.0002,
+        "sadness": 0.9807,
+        "surprise": 0.0043
+      }
+    },
+    "intent": "general",
+    "risk_level": null
+  },
+  {
+    "turn": 5,
+    "timestamp": "2026-06-08T06:37:09.090787",
+    "user": "I'm doing my school project and I'm really stressed about it",
+    "bot": "Is there something specific that's been sitting with you, or just a general feeling?",
+    "emotion": {
+      "emotion": "neutral",
+      "confidence": 0.6609,
+      "source": "model",
+      "all_probs": {
+        "anger": 0.072,
+        "fear": 0.0013,
+        "joy": 0.0004,
+        "love": 0.0007,
+        "neutral": 0.6609,
+        "sadness": 0.262,
+        "surprise": 0.0027
+      }
+    },
+    "intent": "general",
+    "risk_level": null
+  },
+  {
+    "turn": 6,
+    "timestamp": "2026-06-08T06:37:09.094368",
+    "user": "I feel lonely, I don't have anyone to talk to",
+    "bot": "It takes a lot to say you're struggling. What's been weighing on you the most?\n\nHas anyone around you noticed you've been struggling?",
+    "emotion": {
+      "emotion": "sadness",
+      "confidence": 0.9798,
+      "source": "model",
+      "all_probs": {
+        "anger": 0.0055,
+        "fear": 0.0053,
+        "joy": 0.0047,
+        "love": 0.0019,
+        "neutral": 0.0001,
+        "sadness": 0.9798,
+        "surprise": 0.0027
+      }
+    },
+    "intent": "general",
+    "risk_level": null
+  },
+  {
+    "turn": 7,
+    "timestamp": "2026-06-08T06:37:09.097981",
+    "user": "What should I do?",
+    "bot": "Here are some things that might help:\n\n  • Reduce caffeine and screen time in the hour before bed.\n  • Share how you're feeling with someone you trust.\n  • Establish a consistent sleep routine (same bedtime and wake time).\n\nWould you like to talk through any of these?",
+    "emotion": {
+      "emotion": "neutral",
+      "confidence": 0.973,
+      "source": "model",
+      "all_probs": {
+        "anger": 0.0063,
+        "fear": 0.0061,
+        "joy": 0.0054,
+        "love": 0.0033,
+        "neutral": 0.973,
+        "sadness": 0.0037,
+        "surprise": 0.0022
+      }
+    },
+    "intent": "recommendation",
+    "risk_level": null
+  },
+  {
+    "turn": 8,
+    "timestamp": "2026-06-08T06:37:09.101606",
+    "user": "Thank you, that actually helps",
+    "bot": "You're welcome. Reaching out takes courage — I'm here if you want to talk more.",
+    "emotion": {
+      "emotion": "neutral",
+      "confidence": 0.9465,
+      "source": "model",
+      "all_probs": {
+        "anger": 0.0073,
+        "fear": 0.0154,
+        "joy": 0.0199,
+        "love": 0.0024,
+        "neutral": 0.9465,
+        "sadness": 0.0033,
+        "surprise": 0.0053
+      }
+    },
+    "intent": "thanks",
+    "risk_level": null
+  },
+  {
+    "turn": 9,
+    "timestamp": "2026-06-08T06:37:09.105352",
+    "user": "bye",
+    "bot": "Take care of yourself. I'm here whenever you need to talk. 💙",
+    "emotion": {
+      "emotion": "neutral",
+      "confidence": 0.979,
+      "source": "model",
+      "all_probs": {
+        "anger": 0.0053,
+        "fear": 0.0047,
+        "joy": 0.0051,
+        "love": 0.001,
+        "neutral": 0.979,
+        "sadness": 0.0029,
+        "surprise": 0.002
+      }
+    },
+    "intent": "farewell",
+    "risk_level": null
+  }
+]
