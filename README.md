@@ -29,6 +29,11 @@ AI-powered mental health platform featuring:
 
 This project uses publicly available Kaggle datasets.
 
-Download datasets and place them in:
+Student Depression Dataset
+https://www.kaggle.com/datasets/hopesb/student-depression-dataset
 
+Emotions dataset for NLP + Neutral Emotion
+https://www.kaggle.com/datasets/thuannaheempakeer/emotions-dataset-for-nlp-neutral-emotion
+
+Download datasets and place them in:
 project/datasets/
